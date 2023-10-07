@@ -6,6 +6,9 @@
 ### 和歌山駅周辺 
 https://viewer.copc.io/?copc=https://xs489works.xsrv.jp/copc-data/pref-wakayama/06QC511_org_translated.copc.laz
 
+### 中古沢橋梁
+https://viewer.copc.io/?copc=https://xs489works.xsrv.jp/copc-data/pref-wakayama/06QC492_org_translated.copc.laz
+
 ## COPC（Cloud Optimized Point Cloud）の生成方法
 - [pdal 2.5.2](https://pdal.io/en/latest/)
 
